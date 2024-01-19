@@ -4,7 +4,7 @@ default-members = [
     "spdmlib",
     "codec",
     "executor",
-    "sys_time",
+    #"sys_time",
     "test/spdm-requester-emu",
     "test/spdm-responder-emu",
 ]
@@ -13,7 +13,7 @@ members = [
     "spdmlib",
     "codec",
     "executor",
-    "sys_time",
+    #"sys_time",
     "idekm",
     "tdisp",
     "test/spdm-requester-emu",
